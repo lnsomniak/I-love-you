@@ -11,7 +11,7 @@ playButton.addEventListener("click", () => {
 });
 
 yesButton.addEventListener("click", () => {
-    responseDiv.innerHTML = "YAYYYYY! 🥰";
+    responseDiv.innerHTML = "YAYYYY! thank you my love for being such a major part of my life these past two years... check your account... 🥰";
 });
 
 noButton.addEventListener("mouseover", () => {
